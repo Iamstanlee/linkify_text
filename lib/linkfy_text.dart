@@ -3,3 +3,5 @@ library linkfy_text;
 
 export 'src/enum.dart';
 export 'src/linkify.dart';
+export 'src/utils/linkify_text_span.dart';
+export 'src/utils/regex.dart';
